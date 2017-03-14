@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VitBurs</string>
+    <string name="search_activity_label">Risultati</string>
+    <string name="search_hint">Cerca proteina</string>
+    <string name="RPE_activity_label">EPR</string>
+    <string name="Disc_activity_label">Disco</string>
+    <string name="Cilio_activity_label">Cilio</string>
+    <string name="no_data_available">Nessun Dato Disponibile</string>
+</resources>
